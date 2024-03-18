@@ -34,7 +34,7 @@ Developed by: Kabil S
 Registeration Number : 212222040067
 */
 ~~~
-###In activity_main.xml:
+### In activity_main.xml:
 ~~~
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -83,7 +83,7 @@ Registeration Number : 212222040067
 </androidx.constraintlayout.widget.ConstraintLayout>
 ~~~
 
-###In MainActivity.java:
+### In MainActivity.java:
 ~~~
 package com.example.implicitintent;
 
